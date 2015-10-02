@@ -2,7 +2,7 @@
 
 Perl script to query the Dell DB to look up purchase dates
 
-In my company, we have thousands of Dell PC's, and sadly, until now our IT team hasn't done a great job of collaborating with our Finance team on reporting when these assets were purchased and when they will expire.
+In my company, we have thousands of Dell PC's across nearly 70 sites. Our IT team tracks them in one way, and our Finance team tracks them in another. This script is useful to me because it combines what both teams need, and I can easily calculate the asset expiration date and do future planning for myself.
 
 This script is pretty simple, and was written to avoid needing to look up each service tag from [Dell Support](http://www.dell.com/support/home/us/en/19) one-by-one, as well as to avoid having to enter a CAPTCHA each time.
 
