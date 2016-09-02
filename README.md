@@ -1,4 +1,8 @@
-[![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)
+**Depreciated!**
+
+No longer functional due to changes on the Dell site. With a colleague we've updated this to Python for a 2nd version. This will be uploaded soon.
+
+===
 
 # Dell Database Query
 
